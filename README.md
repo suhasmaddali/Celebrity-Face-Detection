@@ -1,1 +1,1 @@
-# Celebrity-Face-Detection
+# Celebrity Face Detection
